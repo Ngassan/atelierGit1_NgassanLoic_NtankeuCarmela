@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Salut 
 Ntankue Carmela , j'ai vu ta présentation
+=======
+Salut Ngassan, j'ai vu ta presentation
+>>>>>>> 7ccaece297bec2ad098b5daae3472a7a34b208db
